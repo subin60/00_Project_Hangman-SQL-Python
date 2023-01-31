@@ -1,0 +1,3 @@
+[{"discounttype":"Initial Customer", "stor_id":"", "lowqty":0, "highqty":0, "discount":10.5},
+ {"discounttype":"Volume Discount", "stor_id":"", "lowqty":100, "highqty":1000, "discount":6.7},
+ {"discounttype":"Customer Discount", "stor_id":"8042", "lowqty":0, "highqty":0, "discount":5.0}]

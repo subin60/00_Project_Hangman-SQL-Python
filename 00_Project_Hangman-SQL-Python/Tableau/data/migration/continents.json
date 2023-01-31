@@ -1,0 +1,7 @@
+[{"continent_id":1, "continent":"North America"},
+ {"continent_id":2, "continent":"Asia"},
+ {"continent_id":3, "continent":"Africa"},
+ {"continent_id":4, "continent":"Europe"},
+ {"continent_id":5, "continent":"South America"},
+ {"continent_id":6, "continent":"Oceania"},
+ {"continent_id":7, "continent":"Antarctica"}]
